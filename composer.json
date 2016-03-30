@@ -1,0 +1,6 @@
+{
+    "name": "wikifab/sample-display",
+    "type": "mediawiki-extension",
+    "require": {
+    }
+}
